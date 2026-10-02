@@ -1,16 +1,51 @@
-## Hi there 👋
+Hi there 👋, I'm Devyani!
 
-<!--
-**devyani1012/devyani1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer | Learner | Problem Solver
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about building things, learning new technologies, and turning ideas into useful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+🔭 I’m currently working on personal and academic projects
+
+🌱 I’m currently learning and improving my development skills
+
+💡 I enjoy exploring new technologies and solving problems
+
+👯 I’m open to collaborating on interesting projects
+
+💬 Ask me about my projects and what I'm currently learning
+
+📫 Feel free to connect with me on GitHub
+
+🛠️ Tech Stack
+
+Languages
+
+Java
+
+Python
+
+JavaScript
+
+HTML & CSS
+
+Tools & Technologies
+
+Git & GitHub
+
+VS Code
+
+SQL
+
+React
+
+📌 Featured Projects
+
+Check out my repositories to see what I've been building and learning!
+
+📊 GitHub Stats
+
+🔥 Streak
+
+⭐ Thanks for visiting my profile!
